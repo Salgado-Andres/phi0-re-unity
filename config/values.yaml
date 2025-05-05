@@ -1,0 +1,24 @@
+clarity:
+  description: "Ensure logical and semantic transparency in \u03C6\u2070 outputs"
+  weight: 0.95
+coherence:
+  description: "Stabilize \u03C8\u2070 under \u03C6\u2070 recursion"
+  weight: 0.9
+entropy_exploration:
+  description: Expand into high-divergence spaces to test for hidden order
+  weight: 0.9
+recursive_integrity:
+  description: "Maintain self-consistency in \u03C6\u2070 across iterations"
+  weight: 0.95
+semantic_fidelity:
+  description: Preserve the integrity of conceptual mappings in recursive projection
+  weight: 0.95
+temporal_coherence:
+  description: Ensure consistency across recursive timelines and futures
+  weight: 0.95
+truth:
+  description: "Minimize divergence between projection \u03A6 and observation \u03A8"
+  weight: 1.0
+"\u03A9_alignment":
+  description: Favor attractor states close to known virtuous attractors
+  weight: 1.0
