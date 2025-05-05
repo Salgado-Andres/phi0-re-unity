@@ -1,4 +1,4 @@
-#  ψo-RE-Unity
+#  ψo -RE-Unity 
 
 **A Unified Framework for Recursive Emergence, Contradiction Resolution, and Self-Aware Computation**
 
