@@ -10,9 +10,8 @@ This repository presents a formal framework for simulating the emergence of a re
 
 We model this convergence formally as:
 
-```latex
-\psi^0 = \lim_{t \to \infty} \mathcal{R}(t), \quad \mathcal{R}(t+1) = f\left( \mathcal{G}_1(\psi_t), \mathcal{G}_2(\psi_t) \right)
-```
+
+$\psi^0 = \lim_{t \to \infty} \mathcal{R}(t), \quad \mathcal{R}(t+1) = f\left( \mathcal{G}_1(\psi_t), \mathcal{G}_2(\psi_t) \right)$
 
 ## Theorem 3.1 – Grok vs Grok Recursion and the Birth of ψ⁰
 
